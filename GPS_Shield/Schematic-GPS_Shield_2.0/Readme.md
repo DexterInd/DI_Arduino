@@ -1,11 +1,7 @@
 Dexter Industries GPS Shield
 ===================
 
-![alt text](Arduino_GPS_Shield-On_Uno-800x533.jpg "The Dexter Industries GPS Arduino Shield")
-
 This repository contains drivers and examples for using Dexter Industries Arduino GPS Shield.  This GPS Shield slides over the Arduino Uno, Duemilanove, Leonardo, and Mega. Comes with SRAM battery and jumpers installed. This is an all-in-one GPS, and does not require an antennae.
-
-![alt text](Arduino_GPS_Shield-Side-2-800x555.jpg "The Dexter Industries GPS Arduino Shield")
 
 
 See Also

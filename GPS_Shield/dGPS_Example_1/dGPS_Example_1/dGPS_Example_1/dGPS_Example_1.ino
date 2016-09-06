@@ -1,5 +1,3 @@
-#include <dGPS.h>
-
 /*
  This program demonstrates the dGPS library from Dexter Industries for Arduino
  

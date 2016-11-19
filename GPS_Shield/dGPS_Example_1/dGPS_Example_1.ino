@@ -1,4 +1,4 @@
-#include <dGPS.h>
+// #include <dGPS.h>
 
 /*
  This program demonstrates the dGPS library from Dexter Industries for Arduino
@@ -18,6 +18,8 @@
    
  Note on Arduino MEGA and Leonardo:  You will need to change the pin on the board to 10/11/12.
  Change the corresponding #define SoftrxPin in dGPS.cpp to 10/11/12 as well.  
+
+ IMPORTANT: Make sure that the pin selector on the dGPS is set to "10" before proceeding!
  
  */
 

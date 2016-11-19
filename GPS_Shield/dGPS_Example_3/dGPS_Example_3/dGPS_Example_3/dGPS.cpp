@@ -10,7 +10,7 @@
 #include "math.h"
 #define MAX_STRING_LEN  300
 
-#define SoftrxPin 3
+#define SoftrxPin 10
 #define SofttxPin 4
 
 long fTime;
